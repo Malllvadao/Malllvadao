@@ -4,9 +4,8 @@
 <a href="https://www.linkedin.com/in/leandro-augusto-cardoso-de-oliveira-6091141b1">
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=malllvadao&show_icons=true&theme=default-dark#gh-chartreuse-dark-only">
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malllvadao&layout=compact"/>
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malllvadao&langs_count=8)">
-
 </div>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Malll-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Malll-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
