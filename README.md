@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://www.linkedin.com/in/leandro-augusto-cardoso-de-oliveira-6091141b1">
-<img heigth ="180" src="https://github-readme-stats.vercel.app/api?username=malllvadao&show_icons=true&theme=chartreuse-dark#gh-chartreuse-dark-only)](https://github.com/anuraghazra/github-readme-stats#gh-chartreuse-dark-only"/>
-<img heigth ="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malllvadao&layout=compact"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=malllvadao&show_icons=true&theme=chartreuse-dark#gh-chartreuse-dark-only)](https://github.com/malllvadao/github-readme-stats#gh-chartreuse-dark-only"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malllvadao&layout=compact"/>
 
 </div>
   <div style="display: inline_block"><br>
